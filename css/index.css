@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .app {
-  background-color: #505170;
+  background-color: gray;
 }
 .title-app {
   height: 10vh;
